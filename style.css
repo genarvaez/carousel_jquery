@@ -1,0 +1,21 @@
+*{
+	background-color: black
+}
+img{
+	
+	position: absolute;
+	top: 0px;
+	left: 0;
+
+}
+.imagenes{
+	text-align: center;
+}
+button{
+	margin-top: 300px;
+	border: none;
+	color: #2E2E2E
+}
+button:hover{
+	color: white;
+}
